@@ -16,9 +16,6 @@ namespace Tic_Tac_Toe_Game
         public Form1()
         {
 
-
-
-
             InitializeComponent();
         }
         int Count = 0;
